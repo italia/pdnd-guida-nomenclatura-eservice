@@ -118,8 +118,6 @@ Glossario delle azioni **da evitare** per la nomenclatura degli e-service
 +-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | AZIONE          | COMMENTO                                                                                                                                                                              |
 +=================+=======================================================================================================================================================================================+
-| ACCERTAMENTO    | Ad oggi utilizzato spesso come sinonimo di consultazione, il termine è sconsigliato in quanto rappresenta un fine dell’azione di consultazione e non l’azione stessa dell’e-service.  |
-+-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | FORNITURA       | Spesso utilizzato impropriamente al posto di consultazione.                                                                                                                           |
 +-----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | INTERROGAZIONE  | Utilizzato come sinonimo talvolta di consultazione, talvolta di ricerca.                                                                                                              |
