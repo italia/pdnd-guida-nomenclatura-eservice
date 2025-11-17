@@ -5,7 +5,7 @@ Numero limite di caratteri consentiti per la descrizione: **250**
 
 -  La prima parte della descrizione dovrebbe **rendere chiaro l’input e l’output** (dato x, l’e-service restituisce y)
 
--  la descrizione dovrebbe essere **esaustiva e chiara, ma coincisa** e
+-  la descrizione dovrebbe essere **esaustiva e chiara, ma concisa** e
    dovrebbe includere la formula estesa di eventuali acronimi
    utilizzati. Es. Archivio nazionale dei numeri civici delle strade
    urbane (ANNCSU)
