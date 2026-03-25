@@ -15,4 +15,4 @@ git+https://github.com/pdavide/sphinxcontrib-versiontag
 # Render mermaid diagrams
 sphinxcontrib-mermaid==0.7.1
 sphinx-markdown-tables==0.0.17
-requests==2.27.1
+requests==2.33.0
