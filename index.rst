@@ -12,7 +12,9 @@ Di seguito presentiamo buone pratiche per una corretta nomenclatura e
 descrizione degli e-service, definite a partire dall’analisi del
 catalogo esistente.
 
-Puoi contribuire all’evoluzione di queste buone pratiche aprendo issue
+Per supportare l'applicazione di queste buone pratiche, sono a disposizione `strumenti per le AI di tipo LLM -Large Language Model- <https://github.com/italia/pdnd-guida-nomenclatura-eservice/tree/versione-corrente/AI>`_ che aiutano a generare e verificare nome e descrizione degli e-service.
+
+Puoi contribuire all’evoluzione delle buone pratiche e degli strumenti a supporto aprendo issue
 su `GitHub <https://github.com/italia/pdnd-guida-nomenclatura-eservice>`_.
 
 
