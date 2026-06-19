@@ -1,7 +1,7 @@
 Buone pratiche per la descrizione dell’e-service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Numero limite di caratteri consentiti per la descrizione: **250**
+Numero limite di caratteri consentiti per la descrizione: **400**
 
 -  La prima parte della descrizione dovrebbe **rendere chiaro l’input e l’output** (dato x, l’e-service restituisce y)
 
