@@ -22,6 +22,6 @@ su `GitHub <https://github.com/italia/pdnd-guida-nomenclatura-eservice>`_.
   :maxdepth: 3
   :numbered:
 
-  docs/buone-pratiche-per-il-nome.rst
-  docs/buone-pratiche-per-la-descrizione.rst
+  buone-pratiche-per-il-nome.rst
+  buone-pratiche-per-la-descrizione.rst
   
